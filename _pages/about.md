@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,7 @@ redirect_from:
 
 I am a PhD student in artificial intelligence in the [DTAI lab](https://wms.cs.kuleuven.be/dtai) of [KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html) under the supervision of Professor [Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). I was granted a personal 4-year PhD fellowship by [FWO](https://www.fwo.be/en/) in November 2023. 
 
-My research focuses on the combination of machine learning and constrained optimization, including decision-focused learning, constraint acquisition and algorithm configuration. 
-
+My research focuses on the combination of machine learning and constrained optimization, including decision-focused learning, constraint acquisition and algorithm configuration.
 
 
 Publications
