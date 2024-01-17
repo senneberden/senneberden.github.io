@@ -29,7 +29,7 @@ Jayanta Mandi\*, James Kotary\*, Senne Berden, Maxime Mulamba, Victor Bucarey, T
 - **Sudoku Assistant – an AI-Powered App to Help Solve Pen-And-Paper Sudokus** \
 Tias Guns, Emilio Gamba, Maxime Mulamba, Ignace Bleukx, Senne Berden, Milan Pesa \
 *🏆 **Best demonstration** at the Conference on Artificial Intelligence (AAAI) 2024* \
-[\[Paper\]](file:///home/ijskar/Downloads/27072-Article%20Text-31135-1-2-20230626.pdf) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
+[\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/27072) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
 
 - **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
 Mattia Silvestri, Senne Berden, Jayanta Mandi, Ali İrfan Mahmutoğulları, Maxime Mulamba, Allegra De Filippo, Tias Guns, Michele Lombardi \
