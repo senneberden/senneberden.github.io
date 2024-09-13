@@ -13,6 +13,13 @@ I am a PhD student in artificial intelligence in the [DTAI lab](https://wms.cs.k
 My research focuses on the combination of machine learning and constrained optimization, including decision-focused learning, constraint acquisition and algorithm configuration.
 
 
+Blog posts
+======
+- **Sudoku Assistant – an AI assistant combining machine learning and reasoning** \
+Senne Berden, Tias Guns \
+*We introduce The Sudoku Assistant, an AI assistant that integrates machine learning and reasoning to interpret, solve and explain pen-and-paper Sudokus scanned with a smartphone. The assistant demonstrates three increasingly important concepts in AI research: the integration of learning and reasoning, explainable AI and human-centered AI.* \
+[\[Blog post\]](https://ai.kuleuven.be/stories/post/2023-02-08-sudoku/) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
+
 Publications
 ======
 *\* denotes co-first author*
@@ -34,7 +41,7 @@ Tias Guns, Emilio Gamba, Maxime Mulamba, Ignace Bleukx, Senne Berden, Milan Pesa
 - **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
 Mattia Silvestri, Senne Berden, Jayanta Mandi, Ali İrfan Mahmutoğulları, Maxime Mulamba, Allegra De Filippo, Tias Guns, Michele Lombardi \
 *Differentiable Almost Everything Workshop of International Conference on Machine Learning (ICML) 2023* \
-[\[Paper\]](https://openreview.net/pdf?id=ty046JUllZ)
+[\[Paper\]](https://arxiv.org/pdf/2307.05213)
 
 - **Guided Bottom-Up Interactive Constraint Acquisition** \
 Dimos Tsouros, Senne Berden, Tias Guns \
