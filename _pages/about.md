@@ -16,7 +16,7 @@ My research focuses on the combination of machine learning and constrained optim
 Blog posts
 ======
 - **Sudoku Assistant – an AI assistant combining machine learning and reasoning** \
-Senne Berden, Tias Guns \
+**Senne Berden**, Tias Guns \
 *We introduce The Sudoku Assistant, an AI assistant that integrates machine learning and reasoning to interpret, solve and explain pen-and-paper Sudokus scanned with a smartphone. The assistant demonstrates three increasingly important concepts in AI research: the integration of learning and reasoning, explainable AI and human-centered AI.* \
 [\[Blog post\]](https://ai.kuleuven.be/stories/post/2023-02-08-sudoku/) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
 
@@ -36,6 +36,7 @@ Dimos Tsouros, **Senne Berden**, Tias Guns \
 
 - **Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities** \
 Jayanta Mandi\*, James Kotary\*, **Senne Berden**, Maxime Mulamba, Victor Bucarey, Tias Guns, Ferdinando Fioretto \
+*Journal of Artificial Intelligence Research (JAIR)* \
 [\[Paper\]](https://arxiv.org/abs/2307.13565) [\[Code\]](https://github.com/PredOpt/predopt-benchmarks)
 
 - **Sudoku Assistant – an AI-Powered App to Help Solve Pen-And-Paper Sudokus** \
