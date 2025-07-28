@@ -24,6 +24,11 @@ Publications
 ======
 *\* denotes co-first author*
 
+- **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
+**Senne Berden**, Ali İrfan Mahmutoğulları, Dimos Tsouros, Tias Guns \
+*Preprint on arXiv 2025* \
+[\[Paper\]](https://arxiv.org/abs/2505.22224)
+
 - **Generalizing Constraint Models in Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Steven Prestwich, Tias Guns \
 *Conference on Artificial Intelligence (AAAI) 2025* \
@@ -36,7 +41,7 @@ Dimos Tsouros, **Senne Berden**, Tias Guns \
 
 - **Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities** \
 Jayanta Mandi\*, James Kotary\*, **Senne Berden**, Maxime Mulamba, Victor Bucarey, Tias Guns, Ferdinando Fioretto \
-*Journal of Artificial Intelligence Research (JAIR)* \
+*Journal of Artificial Intelligence Research (JAIR) 2024* \
 [\[Paper\]](https://arxiv.org/abs/2307.13565) [\[Code\]](https://github.com/PredOpt/predopt-benchmarks)
 
 - **Sudoku Assistant – an AI-Powered App to Help Solve Pen-And-Paper Sudokus** \
