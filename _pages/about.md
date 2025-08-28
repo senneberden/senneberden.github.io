@@ -29,6 +29,11 @@ Publications
 *Preprint on arXiv 2025* \
 [\[Paper\]](https://arxiv.org/abs/2505.22224)
 
+- **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
+Mattia Silvestri, **Senne Berden**, Gaetano Signorelli, Ali İrfan Mahmutoğulları, Jayanta Mandi, Brandon Amos, Tias Guns, Michele Lombardi \
+*Journal of Artificial Intelligence Research (JAIR) 2025* \
+[\[Paper\]](https://arxiv.org/pdf/2307.05213)
+
 - **Generalizing Constraint Models in Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Steven Prestwich, Tias Guns \
 *Conference on Artificial Intelligence (AAAI) 2025* \
@@ -48,11 +53,6 @@ Jayanta Mandi\*, James Kotary\*, **Senne Berden**, Maxime Mulamba, Victor Bucare
 Tias Guns, Emilio Gamba, Maxime Mulamba, Ignace Bleukx, **Senne Berden**, Milan Pesa \
 *🏆 **Best demonstration** at the Conference on Artificial Intelligence (AAAI) 2024* \
 [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/27072) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
-
-- **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
-Mattia Silvestri, **Senne Berden**, Jayanta Mandi, Ali İrfan Mahmutoğulları, Maxime Mulamba, Allegra De Filippo, Tias Guns, Michele Lombardi \
-*Differentiable Almost Everything Workshop of International Conference on Machine Learning (ICML) 2023* \
-[\[Paper\]](https://arxiv.org/pdf/2307.05213)
 
 - **Guided Bottom-Up Interactive Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Tias Guns \
