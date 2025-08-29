@@ -29,20 +29,25 @@ Publications
 *Preprint on arXiv 2025* \
 [\[Paper\]](https://arxiv.org/abs/2505.22224)
 
+- **Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimization** \
+Jayanta Mandi, Ali İrfan Mahmutoğulları, **Senne Berden**, Tias Guns \
+*European Conference on Artificial Intelligence (ECAI) 2025* \
+[\[Paper\]](https://arxiv.org/abs/2508.11365)
+
 - **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
 Mattia Silvestri, **Senne Berden**, Gaetano Signorelli, Ali İrfan Mahmutoğulları, Jayanta Mandi, Brandon Amos, Tias Guns, Michele Lombardi \
 *Journal of Artificial Intelligence Research (JAIR) 2025* \
-[\[Paper\]](https://arxiv.org/pdf/2307.05213)
+[\[Paper\]](https://arxiv.org/abs/2307.05213)
 
 - **Generalizing Constraint Models in Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Steven Prestwich, Tias Guns \
 *Conference on Artificial Intelligence (AAAI) 2025* \
-[\[Paper\]](https://arxiv.org/pdf/2412.14950) [\[Code\]](https://github.com/Dimosts/GenConModels)
+[\[Paper\]](https://arxiv.org/abs/2412.14950) [\[Code\]](https://github.com/Dimosts/GenConModels)
 
 - **Learning to Learn in Interactive Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Tias Guns \
 *Conference on Artificial Intelligence (AAAI) 2024* \
-[\[Paper\]](https://arxiv.org/pdf/2312.10795.pdf) [\[Code\]](https://github.com/Dimosts/ActiveConLearn)
+[\[Paper\]](https://arxiv.org/abs/2312.10795.pdf) [\[Code\]](https://github.com/Dimosts/ActiveConLearn)
 
 - **Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities** \
 Jayanta Mandi\*, James Kotary\*, **Senne Berden**, Maxime Mulamba, Victor Bucarey, Tias Guns, Ferdinando Fioretto \
