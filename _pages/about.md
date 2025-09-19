@@ -26,7 +26,7 @@ Publications
 
 - **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
 **Senne Berden**, Ali İrfan Mahmutoğulları, Dimos Tsouros, Tias Guns \
-*Preprint on arXiv 2025* \
+*Conference on Neural Information Processing Systems (NeurIPS) 2025* \
 [\[Paper\]](https://arxiv.org/abs/2505.22224)
 
 - **Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimization** \
@@ -41,12 +41,12 @@ Mattia Silvestri, **Senne Berden**, Gaetano Signorelli, Ali İrfan Mahmutoğulla
 
 - **Generalizing Constraint Models in Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Steven Prestwich, Tias Guns \
-*Conference on Artificial Intelligence (AAAI) 2025* \
+*AAAI Conference on Artificial Intelligence (AAAI) 2025* \
 [\[Paper\]](https://arxiv.org/abs/2412.14950) [\[Code\]](https://github.com/Dimosts/GenConModels)
 
 - **Learning to Learn in Interactive Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Tias Guns \
-*Conference on Artificial Intelligence (AAAI) 2024* \
+*AAAI Conference on Artificial Intelligence (AAAI) 2024* \
 [\[Paper\]](https://arxiv.org/abs/2312.10795.pdf) [\[Code\]](https://github.com/Dimosts/ActiveConLearn)
 
 - **Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities** \
