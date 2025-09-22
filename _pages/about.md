@@ -29,6 +29,11 @@ Publications
 *Conference on Neural Information Processing Systems (NeurIPS) 2025* \
 [\[Paper\]](https://arxiv.org/abs/2505.22224)
 
+- **Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints** \
+Jayanta Mandi, Marianne Defresne, **Senne Berden**, Tias Guns \
+*Conference on Neural Information Processing Systems (NeurIPS) 2025* \
+\[Paper TBA\]
+
 - **Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimization** \
 Jayanta Mandi, Ali İrfan Mahmutoğulları, **Senne Berden**, Tias Guns \
 *European Conference on Artificial Intelligence (ECAI) 2025* \
