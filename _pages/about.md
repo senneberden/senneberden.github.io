@@ -24,25 +24,35 @@ Publications
 ======
 *\* denotes co-first author*
 
+- **Scalable Decision-Focused Learning through Cost-Sensitive Regression** \
+Noah Schutte, **Senne Berden**, Tias Guns, Krzysztof Postek, Neil Yorke-Smith \
+*Preprint on arXiv, 2026* \
+[\[Paper\]](https://arxiv.org/abs/2605.18005)
+
+- **Machine Learning-Guided Interactive Constraint Acquisition** \
+Dimos Tsouros, **Senne Berden**, Tias Guns \
+*Journal of Artificial Intelligence Research (JAIR) 2026* \
+[\[Paper\]](https://www.jair.org/index.php/jair/article/view/19524) [\[Code\]](https://github.com/Dimosts/ML-guided-CA)
+
 - **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
 **Senne Berden**, Ali İrfan Mahmutoğulları, Dimos Tsouros, Tias Guns \
 *Conference on Neural Information Processing Systems (NeurIPS) 2025* \
-[\[Paper\]](https://arxiv.org/abs/2505.22224)
+[\[Paper\]](https://arxiv.org/abs/2505.22224) [\[Code\]](https://github.com/ML-KULeuven/Solver-Free-DFL)
 
 - **Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints** \
 Jayanta Mandi, Marianne Defresne, **Senne Berden**, Tias Guns \
 *Conference on Neural Information Processing Systems (NeurIPS) 2025* \
-[\[Paper\]](https://arxiv.org/abs/2510.04951)
+[\[Paper\]](https://arxiv.org/abs/2510.04951) [\[Code\]](https://github.com/JayMan91/OdeceDFLforConstraintsNeurips25)
 
 - **Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimization** \
 Jayanta Mandi, Ali İrfan Mahmutoğulları, **Senne Berden**, Tias Guns \
 *European Conference on Artificial Intelligence (ECAI) 2025* \
-[\[Paper\]](https://arxiv.org/abs/2508.11365)
+[\[Paper\]](https://arxiv.org/abs/2508.11365) [\[Code\]](https://github.com/JayMan91/DYS-NET-SCE)
 
 - **Score Function Gradient Estimation to Widen the Applicability of Decision-Focused Learning** \
 Mattia Silvestri, **Senne Berden**, Gaetano Signorelli, Ali İrfan Mahmutoğulları, Jayanta Mandi, Brandon Amos, Tias Guns, Michele Lombardi \
 *Journal of Artificial Intelligence Research (JAIR) 2025* \
-[\[Paper\]](https://arxiv.org/abs/2307.05213)
+[\[Paper\]](https://arxiv.org/abs/2307.05213) [\[Code\]](https://github.com/matsilv/sfge-dfl)
 
 - **Generalizing Constraint Models in Constraint Acquisition** \
 Dimos Tsouros, **Senne Berden**, Steven Prestwich, Tias Guns \
