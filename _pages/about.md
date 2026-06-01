@@ -86,11 +86,11 @@ Ignace Bleukx\*, **Senne Berden**\*, Lize Coenen, Nicholas Decleyre, Tias Guns \
 
 Invited Talks
 ======
-* **Decision-Focused Learning (and How to Do It Quickly)** 
+* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** 
   Workshop on Constrained Optimization and Learning, Grenoble, France, 2026 
   [[Website]](https://ghost-team.gitlabpages.inria.fr/events/optimization_learning26/)
 
-* **Decision-Focused Learning (and How to Do It Quickly)** 
+* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** 
   Implicit Deep Learning: Advances and Applications, SIAM Annual Meeting, 2026 
   [[Website]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88188)
 
