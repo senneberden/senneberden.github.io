@@ -13,12 +13,7 @@ I am a PhD student in artificial intelligence in the [DTAI lab](https://wms.cs.k
 My research focuses on the combination of machine learning and constrained optimization, including decision-focused learning, constraint acquisition and algorithm configuration.
 
 
-Blog posts
-======
-- **Sudoku Assistant – an AI assistant combining machine learning and reasoning** \
-**Senne Berden**, Tias Guns \
-*We introduce The Sudoku Assistant, an AI assistant that integrates machine learning and reasoning to interpret, solve and explain pen-and-paper Sudokus scanned with a smartphone. The assistant demonstrates three increasingly important concepts in AI research: the integration of learning and reasoning, explainable AI and human-centered AI.* \
-[\[Blog post\]](https://ai.kuleuven.be/stories/post/2023-02-08-sudoku/) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
+
 
 Publications
 ======
@@ -88,3 +83,45 @@ Dimos Tsouros, **Senne Berden**, Tias Guns \
 Ignace Bleukx\*, **Senne Berden**\*, Lize Coenen, Nicholas Decleyre, Tias Guns \
 *International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR) 2022* \
 [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_6) [\[Code\]](https://github.com/ML-KULeuven/DeCaprio)
+
+Invited Talks
+======
+* **Decision-Focused Learning (and How to Do It Quickly)** 
+  Workshop on Constrained Optimization and Learning, Grenoble, France, 2026 
+  [[Website]](https://ghost-team.gitlabpages.inria.fr/events/optimization_learning26/)
+
+* **Decision-Focused Learning (and How to Do It Quickly)** 
+  Implicit Deep Learning: Advances and Applications, SIAM Annual Meeting, 2026 
+  [[Website]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88188)
+
+* **Decision-Focused Learning (and How to Do It Quickly)** 
+  Theoretical Computer Science Seminar, University of Antwerp, 2026 
+  [[Website]](https://gaperez64.github.io/jekyll/update/2026/02/18/talk-senne.html)
+
+* **Decision-Focused Learning (and How to Do It Quickly)** 
+  DTAI Seminar, KU Leuven, 2025 
+  [[Website]](https://people.cs.kuleuven.be/~jesse.davis/dtai2025-26.html)
+
+Academic Service
+======
+**Organization**
+
+* Co-organizer of the ACP Summer School on Constraint Programming and Machine Learning, 2023 
+  [[Website]](https://school.a4cp.org/summer2023/)
+
+**Reviewer**
+* Transactions on Machine Learning Research (TMLR)
+* Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML)
+* AAAI Conference on Artificial Intelligence (AAAI)
+* International Conference on Principles and Practice of Constraint Programming (CP)
+* International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)
+* International Joint Conferences on Artificial Intelligence (IJCAI)
+* Machine Learning
+
+Blog posts
+======
+- **Sudoku Assistant – an AI assistant combining machine learning and reasoning** \
+**Senne Berden**, Tias Guns \
+*We introduce The Sudoku Assistant, an AI assistant that integrates machine learning and reasoning to interpret, solve and explain pen-and-paper Sudokus scanned with a smartphone. The assistant demonstrates three increasingly important concepts in AI research: the integration of learning and reasoning, explainable AI and human-centered AI.* \
+[\[Blog post\]](https://ai.kuleuven.be/stories/post/2023-02-08-sudoku/) [\[Website\]](https://visualsudoku.cs.kuleuven.be/index.html)
