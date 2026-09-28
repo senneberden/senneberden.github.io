@@ -85,30 +85,30 @@ Publications
 Invited Talks
 ======
 
-* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** 
-  Workshop on Constrained Optimization and Learning, Grenoble, France, 2026 
+* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
+  Workshop on Constrained Optimization and Learning, Grenoble, France, 2026 \
   [[Website]](https://ghost-team.gitlabpages.inria.fr/events/optimization_learning26/)
 
-* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** 
-  Implicit Deep Learning: Advances and Applications, SIAM Annual Meeting, 2026 
+* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
+  Implicit Deep Learning: Advances and Applications, SIAM Annual Meeting, 2026 \
   [[Website]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88188)
 
-* **Decision-Focused Learning (and How to Do It Quickly)** 
-  Theoretical Computer Science Seminar, University of Antwerp, 2026 
+* **Decision-Focused Learning (and How to Do It Quickly)** \
+  Theoretical Computer Science Seminar, University of Antwerp, 2026 \
   [[Website]](https://gaperez64.github.io/jekyll/update/2026/02/18/talk-senne.html)
 
 # Other Talks
 
-* **Solver-Free Decision-Focused Learning for Linear Optimization Problems**  
+* **Solver-Free Decision-Focused Learning for Linear Optimization Problems** \
   Research group seminar, Cornell Tech, 2026
 
-* **Decision-Focused Learning (and How to Do It Quickly)** 
-  DTAI Seminar, KU Leuven, 2025 
+* **Decision-Focused Learning (and How to Do It Quickly)** \
+  DTAI Seminar, KU Leuven, 2025 \
   [[Website]](https://dtai.cs.kuleuven.be/events-seminars/2025/decision-focused-learning-and-how-to-do-it-quickly)
 
 # Research Visits
 
-- **Cornell Tech**, New York, USA, August-September 2026
+- **Cornell Tech**, New York, USA, August-September 2026 \
   Hosted by Prof. Andrea Lodi
 
 Academic Service
