@@ -17,6 +17,11 @@ Publications
 
 *\* denotes co-first author*
 
+- **Predictive Dual Smoothing for Column Generation** \
+  **Senne Berden**, Noah Schutte, Andrea Lodi, Tias Guns \
+  *Preprint on arXiv, 2026* \
+  [\[Paper\]](https://arxiv.org/abs/2609.34740)
+
 - **Scalable Decision-Focused Learning through Cost-Sensitive Regression** \
   Noah Schutte, **Senne Berden**, Tias Guns, Krzysztof Postek, Neil Yorke-Smith \
   *Preprint on arXiv, 2026* \
